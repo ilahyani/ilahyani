@@ -2,7 +2,7 @@
 
 # 👋 HELLO / AZUL 👋
 ### Smail. Backend Develper. [1337](https://1337.ma/en/) / [42](https://42.fr/le-reseau-mondial/) Student. 
-#### [ JS/TS | NestJS | NodeJS | ExpressJS | Mongodb | PostgreSQL | Docker | Linux | C/C++ | ReactJS ]
+#### [ C/C++ | JS/TS | NestJS | NodeJS | ExpressJS | Mongodb | PostgreSQL | Docker ]
 #### For contact or more info, Find me on Linkedin:
 <p align="center">
   <a href="https://www.linkedin.com/in/ilahyani" target="blank">
