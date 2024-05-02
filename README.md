@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 HELLO / AZUL 👋
-#### Smail. Web Develper. [1337](https://1337.ma/en/) / [42](https://42.fr/le-reseau-mondial/) Student. 
+#### Software Engineering Student @[1337CodingSchool](https://1337.ma/en/) specializing in Web Development 👨🏻‍💻
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilahyani&theme=nord_dark"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilahyani&theme=nord_dark"/>
