@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 HELLO / AZUL 👋
-#### Software Engineering Student @[1337CodingSchool](https://1337.ma/en/) specializing in backend web development and devops. 👨🏻‍💻
+#### Software Engineer specializing in backend web development and devops. 👨🏻‍💻
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilahyani&theme=nord_dark"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilahyani&theme=nord_dark"/>
